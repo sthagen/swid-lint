@@ -5,12 +5,12 @@
 import os
 import sys
 
-import swid_lint.lint as lint
+import swid_lint.lint as swid_lint
 
 
 # pylint: disable=expression-not-assigned
 def main(argv=None):
     """Process the job."""
     argv = sys.argv[1:] if argv is None else argv
-    lint.main(argv)
+    swid_lint.main(argv)
  
