@@ -12,6 +12,7 @@ Experimental SWID baseline validator.
 
 TODO: Third party dependencies are documented in the folder [third-party](third-party/README.md).
 
+
 ## Status
 
 Experimental.
