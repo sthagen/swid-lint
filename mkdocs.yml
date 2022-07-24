@@ -26,7 +26,7 @@ extra:
   generator: false
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/sthagen/swid-lint
+      link: https://git.sr.ht/~sthagen/swid-lint
     - icon: fontawesome/brands/python
       link: https://pypi.org/project/swid-lint
     - icon: fontawesome/brands/linkedin
@@ -34,8 +34,8 @@ extra:
 
 copyright: Copyright &copy; 2022 Stefan Hagen under the MIT license
 
-repo_name: sthagen/swid-lint
-repo_url: https://github.com/sthagen/swid-lint
+repo_name: ~sthagen/swid-lint
+repo_url: https://git.sr.ht/~sthagen/swid-lint
 edit_uri: ""
 
 plugins:
@@ -48,6 +48,7 @@ nav:
   - Usage: 'usage.md'
   - API: 'api.md'
   - Changes: 'changes.md'
+  - Test Coverage: https://codes.dilettant.life/coverage/swid-lint
   - Third-Party: 'third-party/README.md'
 
 markdown_extensions:
