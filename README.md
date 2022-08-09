@@ -19,7 +19,7 @@ User and developer [documentation of swid-lint](https://codes.dilettant.life/doc
 
 ## Bug Tracker
 
-Feature requests and bug reports are bested entered in the [todos of swid-lint](https://todo.sr.ht/~sthagen/swid-lint).
+Feature requests and bug reports are best entered in the [todos of swid-lint](https://todo.sr.ht/~sthagen/swid-lint).
 
 ## Primary Source repository
 
