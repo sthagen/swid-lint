@@ -36,7 +36,7 @@ extra:
 
 copyright: Copyright &copy; 2022 Stefan Hagen under the MIT license
 
-repo_name: ~sthagen/swid-lint
+repo_name: sthagen/swid-lint
 repo_url: https://git.sr.ht/~sthagen/swid-lint
 edit_uri: ""
 
