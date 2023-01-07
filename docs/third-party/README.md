@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom.json) with SHA256 checksum ([67b7b39a ...](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom.json.sha256 "sha256:67b7b39a3f9f4e1ba47ba4050d8e0c797dff8b7af5573846244a4ed7ad36f9da")).
-<!--[[[end]]] (checksum: cfe9d766563649aff6c98614a7a61ed6)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom.json) with SHA256 checksum ([de4318d6 ...](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom.json.sha256 "sha256:de4318d658c35b90ab7c32485ca12d9274c55fcb99d851dedcbd98edf6006d72")).
+<!--[[[end]]] (checksum: 709892459bc4620365484513789ce326)-->
 ## Licenses
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
