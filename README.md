@@ -4,7 +4,7 @@ Experimental SWID baseline validator.
 
 [License: MIT](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/LICENSE)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
+Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
 [![downloads](https://pepy.tech/badge/swid-lint/month)](https://pepy.tech/project/swid-lint)
