@@ -18,7 +18,7 @@ User and developer [documentation of swid-lint](https://codes.dilettant.life/doc
 
 ## Bug Tracker
 
-Feature requests and bug reports are best entered in the [todos of swid-lint](https://todo.sr.ht/~sthagen/swid-lint).
+Any feature requests or bug reports shall go to the [todos of swid-lint](https://todo.sr.ht/~sthagen/swid-lint).
 
 ## Primary Source repository
 
@@ -30,6 +30,13 @@ The preferred public clones of `swid-lint` are:
 
 * [on codeberg](https://codeberg.org/sthagen/swid-lint) - a democratic community-driven, non-profit software development platform operated by Codeberg e.V.
 * [at sourcehut](https://git.sr.ht/~sthagen/swid-lint) - a collection of tools useful for software development.
+
+## Contributions
+
+Please do not submit "pull requests" (I found no way to disable that "feature" on GitHub).
+If you like to share small changes under the repositories license please kindly do so by sending a patch set.
+You can either send such a patchset per email using [git send-email](https://git-send-email.io) or 
+if you are a sourcehut user by pointing your browser to [Prepare a patchset](https://git.sr.ht/~sthagen/swid-lint/send-email).
 
 ## Status
 
