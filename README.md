@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/swid-lint.svg?style=flat)](https://git.sr.ht/~sthagen/swid-lint/log)
 
 ## Documentation
 
