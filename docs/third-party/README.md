@@ -1,8 +1,8 @@
 # Third Party Dependencies
 
 <!--[[[fill sbom_sha256()]]]-->
-The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom/cdx.json) with SHA256 checksum ([058f8704 ...](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom/cdx.json.sha256 "sha256:058f870458c908d21290c54ff6cf885b119d66c6a98a19044ef412a30ab5b127")).
-<!--[[[end]]] (checksum: 41a5655f90f6d36ed10a2e4ae34e89a4)-->
+The [SBOM in CycloneDX v1.4 JSON format](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom/cdx.json) with SHA256 checksum ([e4de3337 ...](https://git.sr.ht/~sthagen/swid-lint/blob/default/sbom/cdx.json.sha256 "sha256:e4de3337666640ced79ec3dd07fb50126aceab513c896d948e336850a53ecf8d")).
+<!--[[[end]]] (checksum: 2c177ddf1dad4d1d48f8e3aa14bf039e)-->
 ## Licenses
 
 JSON files with complete license info of: [direct dependencies](direct-dependency-licenses.json) | [all dependencies](all-dependency-licenses.json)
@@ -10,12 +10,13 @@ JSON files with complete license info of: [direct dependencies](direct-dependenc
 ### Direct Dependencies
 
 <!--[[[fill direct_dependencies_table()]]]-->
-| Name                                                          | Version                                               | License     | Author            | Description (from packaging data)                                  |
-|:--------------------------------------------------------------|:------------------------------------------------------|:------------|:------------------|:-------------------------------------------------------------------|
-| [jsonschema](https://github.com/python-jsonschema/jsonschema) | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/) | MIT License | Julian Berman     | An implementation of JSON Schema validation for Python             |
-| [typer](https://github.com/tiangolo/typer)                    | [0.9.0](https://pypi.org/project/typer/0.9.0/)        | MIT License | Sebastián Ramírez | Typer, build great CLIs. Easy to code. Based on Python type hints. |
-| [xmlschema](https://github.com/sissaschool/xmlschema)         | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)    | MIT License | Davide Brunato    | An XML Schema validator and decoder                                |
-<!--[[[end]]] (checksum: 040ad467779bda45bde3edd98c47f127)-->
+| Name                                                            | Version                                                | License     | Author            | Description (from packaging data)                                  |
+|:----------------------------------------------------------------|:-------------------------------------------------------|:------------|:------------------|:-------------------------------------------------------------------|
+| [jsonschema](https://github.com/python-jsonschema/jsonschema)   | [4.19.0](https://pypi.org/project/jsonschema/4.19.0/)  | MIT License | Julian Berman     | An implementation of JSON Schema validation for Python             |
+| [referencing](https://github.com/python-jsonschema/referencing) | [0.30.2](https://pypi.org/project/referencing/0.30.2/) | MIT License | Julian Berman     | JSON Referencing + Python                                          |
+| [typer](https://github.com/tiangolo/typer)                      | [0.9.0](https://pypi.org/project/typer/0.9.0/)         | MIT License | Sebastián Ramírez | Typer, build great CLIs. Easy to code. Based on Python type hints. |
+| [xmlschema](https://github.com/sissaschool/xmlschema)           | [2.4.0](https://pypi.org/project/xmlschema/2.4.0/)     | MIT License | Davide Brunato    | An XML Schema validator and decoder                                |
+<!--[[[end]]] (checksum: 60bf34b4b3e2be81abca5760ac5554d8)-->
 
 ### Indirect Dependencies
 
