@@ -1,5 +1,7 @@
 site_name: SWID-lint
 site_description: "Experimental SWID baseline validator."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
