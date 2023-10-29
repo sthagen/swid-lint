@@ -2,18 +2,15 @@
 
 Experimental SWID baseline validator.
 
-[License: MIT](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/LICENSE) |
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/COUNTRY-OF-ORIGIN) |
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/swid-lint/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-Third party dependencies are documented in the folder [third-party](third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![downloads](https://static.pepy.tech/badge/swid-lint/month)](https://pepy.tech/project/swid-lint)
-[![wheel](https://img.shields.io/pypi/wheel/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/swid-lint.svg?style=flat)](https://git.sr.ht/~sthagen/swid-lint/log)
+[![Version](https://img.shields.io/pypi/v/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
+[![Downloads](https://static.pepy.tech/badge/swid-lint/month)](https://pepy.tech/project/swid-lint)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/swid-lint.svg?style=flat)](https://git.sr.ht/~sthagen/swid-lint/log)
 
 ## Bug Tracker
 
