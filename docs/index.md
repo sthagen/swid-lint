@@ -8,9 +8,9 @@ Experimental SWID baseline validator.
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
 [![Version](https://img.shields.io/pypi/v/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![Downloads](docs/badges/downloads-per-month.svg)](https://pepy.tech/project/swid-lint)
+[![Downloads](badges/downloads-per-month.svg)](https://pepy.tech/project/swid-lint)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/swid-lint.svg?style=flat)](https://pypi.python.org/pypi/swid-lint/)
-[![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/swid-lint/log)
+[![Maintenance Status](badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/swid-lint/log)
 
 ## Bug Tracker
 
