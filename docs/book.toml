@@ -11,7 +11,16 @@ title = "Swid-lint"
 builddir = "book"
 
 [output.html]
-mathjax-support = true
-site-url = "/docs/swid-lint"
+default-theme = "coal"
 git-repository-url = "https://git.sr.ht/~sthagen/swid-lint"
+git-repository-icon = "fa-code-fork"
+mathjax-support = true
+no-section-label = true
+preferred-dark-theme = "navy"
+site-url = "/docs/swid-lint"
 
+[output.html.print]
+enable = false
+
+[output.html.fold]
+enable = false
