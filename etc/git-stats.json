@@ -1,25 +1,37 @@
 {
   "total": {
-    "commits": 1252,
-    "first_committed_at": "2023-11-25T21:08:29+00:00",
-    "last_committed_at": "2021-03-04T21:51:11+00:00",
-    "month_span_day_count": 995,
-    "year_span": 2.7260273972602738,
-    "commits_per_year": 459,
-    "insertions_per_year": 7940.4924623115585,
-    "deletions_per_year": 1473.5728643216082,
-    "lines_per_year": 9414.065326633166,
-    "files_per_year": 587.3015075376885,
-    "insertions_count": 21646,
-    "deletions_count": 4017,
-    "lines_count": 25663,
-    "files_count": 1601,
-    "insertions_avg": 17.289137380191693,
-    "deletions_avg": 3.2084664536741214,
-    "lines_avg": 20.497603833865814,
-    "files_avg": 1.2787539936102237
+    "commits": 1256,
+    "first_committed_at": "2021-03-04T21:51:11+00:00",
+    "last_committed_at": "2023-11-25T22:19:27+00:00",
+    "month_span_day_count": 996,
+    "year_span": 2.728767123287671,
+    "commits_per_year": 460,
+    "insertions_per_year": 7937.284136546185,
+    "deletions_per_year": 1476.4909638554218,
+    "lines_per_year": 9413.775100401606,
+    "files_per_year": 587.8112449799197,
+    "insertions_count": 21659,
+    "deletions_count": 4029,
+    "lines_count": 25688,
+    "files_count": 1604,
+    "insertions_avg": 17.244426751592357,
+    "deletions_avg": 3.207802547770701,
+    "lines_avg": 20.452229299363058,
+    "files_avg": 1.2770700636942676
   },
   "commit_stats": {
+    "2023-11-25T22:19:27+00:00": {
+      "insertions": 3,
+      "deletions": 2,
+      "lines": 5,
+      "files": 1
+    },
+    "2023-11-25T21:48:57+00:00": {
+      "insertions": 10,
+      "deletions": 10,
+      "lines": 20,
+      "files": 2
+    },
     "2023-11-25T21:08:29+00:00": {
       "insertions": 14313,
       "deletions": 0,
@@ -14309,11 +14321,11 @@
       "files": 4
     },
     "2023-11-25": {
-      "commits": 4,
-      "insertions": 14391,
-      "deletions": 2,
-      "lines": 14393,
-      "files": 4
+      "commits": 6,
+      "insertions": 14404,
+      "deletions": 14,
+      "lines": 14418,
+      "files": 7
     }
   }
 }
