@@ -1,7 +1,7 @@
 {
   "swid-lint": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:35:15.533962",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 16:31:42 +00:00",
     "branch_coverage": true,
     "show_contexts": true,
     "covered_lines": 6,
@@ -13,6 +13,22 @@
     "num_branches": 2,
     "num_partial_branches": 0,
     "covered_branches": 2,
-    "missing_branches": 0
+    "missing_branches": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 3,
+    "files": [
+      "swid_lint/__init__.py",
+      "swid_lint/cli.py",
+      "swid_lint/lint.py"
+    ],
+    "blake3": "5472af48b08658d87c281c3a82294ac1ad3c421affecb35a2e2408b5040b3ed7",
+    "blake2": "a54de62fb746c84823931a9aa94e4eb17a31ac1be90b26fbed7efd5c40fc0e7b69895b3b15eb13da5921f1e08c3209fd982855b02c95fc573db602d062c75969",
+    "sha512": "e83347a83be233a6f0df897c9369e08295e93cc5c060d33d8c6343c62e24afe3fddf5e12865e9624cde95fc865e49b9ee05e7ee1e60eaaa21590bfd57e8b907f",
+    "sha384": "09d676aee33255ff774abab4f38b0ad1f780ce52d024fd1f647bd56bc9bc22eb0a25f1b7c8b13f87c0457f5b7755d41c",
+    "sha256": "ec59dae0b7417780e7012cfc406476d00b4a0e49b27b21177cb2af6dbb5ac1d6",
+    "sha1": "6b2fb59fb45d667d8f99d9c002b21c6c48ad5160",
+    "md5": "fa1c08740a8891bced73cb2767796dbd",
+    "python_version": "3.10.12",
+    "entropy": 5.047253
   }
 }
